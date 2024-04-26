@@ -1,0 +1,39 @@
+  <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>The Colaboration Blog |GMO’s environmental impact  </title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="../styles.css" rel="stylesheet" />
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <article>
+        <a href="/">Home</a>
+        <div class="article-header">
+          <h2 class="title">GMO’s environmental impact</h2>
+          <h3 class="author">by Can Karacetin</h3>
+        </div>
+        <div class="article-body">
+          <h4>Introduction:</h4>
+            <p>
+           There have been many speculations about how GMO can impact human’s well being negatively. The reason behind these speculations is the lack of long term research that is yet to be conducted.   On the other  hand, We have enough research on GMO’s impact on the environment to draw a conclusion from here.
+            </p>
+              <p>
+            After extensive researches on biotechnology, the Genetically modified crops was initially put in to use around 1995. These crops were mainly field crops such as corn, soybean, canola and cotton. The main trait these crops have in common is their resistance to insects that are feeding off of these crops during their cultivation period. There had been concerns about the negative impact these crops might cause which we will discuss later in the report. Before that, lets talk about the positive impact of these crops. The use of this technology, greatly affect the environment positively as it replaced the use of insecticides to control specific pests in the environment. This resulted in net decrease in the usage of chemicals thanks to their resistance capabilities.
+              </p>
+              <h3>Benefits</h3>
+                <p>
+              Another benefit that had a positive impact on the environment is reduced Greenhouse Gas Emission. Due to GM crop use, the fuel use while managing these lands have decreased drastically. Furthermore, there have been an enormous reduction in spray runs due to GMOs as well. Adoption of different tillage methos from conventional tillage method to no till also contributed to greenhouse gas emission. This technology is not inherently dangerous to environment and have many positive impacts as discussed above but there have also been concerns on how this technology can negatively change the course of biodiversity. 
+                  </p>
+               <h3>Negative impacts</h3>
+                <p>
+            There are many cases where the use of this technology has altered the way people deal with their day to day problem, because farming is not the same as it used be to due to GMO, there also have been negative impacts on the environment. Change of practices and heavy reliance on herbicides has caused drastic changes in biodiversity.  For example, monarch butterfly population have declined considerable amount along with other species. Weed have become more prominent and resistant to herbicides and application of herbicides have gone up. According to and article from cban, since 1996, 57 weed species have develop resistance to herbicide glyphosate. Moreover, key insects thar particularly targeted by GMOs have developed resistance to these crops.
+                </p>
+
+        </div>
+      </article>
+    </div>
+  </body>
+</html>
